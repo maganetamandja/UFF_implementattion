@@ -1,0 +1,7115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<atoms>
+
+
+        <atom_name>
+
+            Hydrogen
+            <atom_symbol>
+            H
+            </atom_symbol>
+            <atom_type>
+                H_ 
+            </atom_type>
+
+            <geometry_sym>
+            na
+            </geometry_sym>
+
+            <geometry_name>
+            na
+            </geometry_name>
+            
+            <formal_oxidation>
+            na
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    0.354
+                </bond>
+
+                <angle>
+                    180
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    2.886
+                </distance>
+
+                <energy>
+                    0.044
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    0.712
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Hydrogen
+            <atom_symbol>
+            H
+            </atom_symbol>
+            <atom_type>
+                H_b 
+            </atom_type>
+
+            <geometry_sym>
+            b
+            </geometry_sym>
+
+            <geometry_name>
+            bridging_hydrogen
+            </geometry_name>
+            
+            <formal_oxidation>
+            na
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    0.46
+                </bond>
+
+                <angle>
+                    83.5
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    2.886
+                </distance>
+
+                <energy>
+                    0.044
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    0.712
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Helium
+            <atom_symbol>
+            He
+            </atom_symbol>
+            <atom_type>
+                He4 +4
+            </atom_type>
+
+            <geometry_sym>
+            4
+            </geometry_sym>
+
+            <geometry_name>
+            square
+            </geometry_name>
+            
+            <formal_oxidation>
+            4
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    0.849
+                </bond>
+
+                <angle>
+                    90
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    2.362
+                </distance>
+
+                <energy>
+                    0.056
+                </energy>
+
+                <scale>
+                    15.24
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    0.098
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Lithium
+            <atom_symbol>
+            Li
+            </atom_symbol>
+            <atom_type>
+                Li 
+            </atom_type>
+
+            <geometry_sym>
+            na
+            </geometry_sym>
+
+            <geometry_name>
+            na
+            </geometry_name>
+            
+            <formal_oxidation>
+            na
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.336
+                </bond>
+
+                <angle>
+                    180
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    2.451
+                </distance>
+
+                <energy>
+                    0.025
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    1.026
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Beryllium
+            <atom_symbol>
+            Be
+            </atom_symbol>
+            <atom_type>
+                Be3 +2
+            </atom_type>
+
+            <geometry_sym>
+            3
+            </geometry_sym>
+
+            <geometry_name>
+            tetrahedral
+            </geometry_name>
+            
+            <formal_oxidation>
+            2
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.074
+                </bond>
+
+                <angle>
+                    109.47
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    2.745
+                </distance>
+
+                <energy>
+                    0.085
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    1.565
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Boron
+            <atom_symbol>
+            B
+            </atom_symbol>
+            <atom_type>
+                B_3 
+            </atom_type>
+
+            <geometry_sym>
+            3
+            </geometry_sym>
+
+            <geometry_name>
+            tetrahedral
+            </geometry_name>
+            
+            <formal_oxidation>
+            na
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    0.838
+                </bond>
+
+                <angle>
+                    109.47
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    4.083
+                </distance>
+
+                <energy>
+                    0.18
+                </energy>
+
+                <scale>
+                    12.052
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    1.755
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Boron
+            <atom_symbol>
+            B
+            </atom_symbol>
+            <atom_type>
+                B_2 
+            </atom_type>
+
+            <geometry_sym>
+            2
+            </geometry_sym>
+
+            <geometry_name>
+            trigonal
+            </geometry_name>
+            
+            <formal_oxidation>
+            na
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    0.828
+                </bond>
+
+                <angle>
+                    120
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    4.083
+                </distance>
+
+                <energy>
+                    0.18
+                </energy>
+
+                <scale>
+                    12.052
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    1.755
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Carbon
+            <atom_symbol>
+            C
+            </atom_symbol>
+            <atom_type>
+                C_3 
+            </atom_type>
+
+            <geometry_sym>
+            3
+            </geometry_sym>
+
+            <geometry_name>
+            tetrahedral
+            </geometry_name>
+            
+            <formal_oxidation>
+            na
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    0.757
+                </bond>
+
+                <angle>
+                    109.47
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    3.851
+                </distance>
+
+                <energy>
+                    0.105
+                </energy>
+
+                <scale>
+                    12.73
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    1.912
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Carbon
+            <atom_symbol>
+            C
+            </atom_symbol>
+            <atom_type>
+                C_R 
+            </atom_type>
+
+            <geometry_sym>
+            R
+            </geometry_sym>
+
+            <geometry_name>
+            resonant
+            </geometry_name>
+            
+            <formal_oxidation>
+            na
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    0.729
+                </bond>
+
+                <angle>
+                    120
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    3.851
+                </distance>
+
+                <energy>
+                    0.105
+                </energy>
+
+                <scale>
+                    12.73
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    1.912
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Carbon
+            <atom_symbol>
+            C
+            </atom_symbol>
+            <atom_type>
+                C_2 
+            </atom_type>
+
+            <geometry_sym>
+            2
+            </geometry_sym>
+
+            <geometry_name>
+            trigonal
+            </geometry_name>
+            
+            <formal_oxidation>
+            na
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    0.732
+                </bond>
+
+                <angle>
+                    120
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    3.851
+                </distance>
+
+                <energy>
+                    0.105
+                </energy>
+
+                <scale>
+                    12.73
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    1.912
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Carbon
+            <atom_symbol>
+            C
+            </atom_symbol>
+            <atom_type>
+                C_1 
+            </atom_type>
+
+            <geometry_sym>
+            1
+            </geometry_sym>
+
+            <geometry_name>
+            Linear
+            </geometry_name>
+            
+            <formal_oxidation>
+            na
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    0.706
+                </bond>
+
+                <angle>
+                    180
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    3.851
+                </distance>
+
+                <energy>
+                    0.105
+                </energy>
+
+                <scale>
+                    12.73
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    1.912
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Nitrogen
+            <atom_symbol>
+            N
+            </atom_symbol>
+            <atom_type>
+                N_3 
+            </atom_type>
+
+            <geometry_sym>
+            3
+            </geometry_sym>
+
+            <geometry_name>
+            tetrahedral
+            </geometry_name>
+            
+            <formal_oxidation>
+            na
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    0.7
+                </bond>
+
+                <angle>
+                    106.7
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    3.66
+                </distance>
+
+                <energy>
+                    0.069
+                </energy>
+
+                <scale>
+                    13.407
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    2.544
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Nitrogen
+            <atom_symbol>
+            N
+            </atom_symbol>
+            <atom_type>
+                N_R 
+            </atom_type>
+
+            <geometry_sym>
+            R
+            </geometry_sym>
+
+            <geometry_name>
+            resonant
+            </geometry_name>
+            
+            <formal_oxidation>
+            na
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    0.699
+                </bond>
+
+                <angle>
+                    120
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    3.66
+                </distance>
+
+                <energy>
+                    0.069
+                </energy>
+
+                <scale>
+                    13.407
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    2.544
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Nitrogen
+            <atom_symbol>
+            N
+            </atom_symbol>
+            <atom_type>
+                N_2 
+            </atom_type>
+
+            <geometry_sym>
+            2
+            </geometry_sym>
+
+            <geometry_name>
+            trigonal
+            </geometry_name>
+            
+            <formal_oxidation>
+            na
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    0.685
+                </bond>
+
+                <angle>
+                    111.2
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    3.66
+                </distance>
+
+                <energy>
+                    0.069
+                </energy>
+
+                <scale>
+                    13.407
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    2.544
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Nitrogen
+            <atom_symbol>
+            N
+            </atom_symbol>
+            <atom_type>
+                N_1 
+            </atom_type>
+
+            <geometry_sym>
+            1
+            </geometry_sym>
+
+            <geometry_name>
+            Linear
+            </geometry_name>
+            
+            <formal_oxidation>
+            na
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    0.656
+                </bond>
+
+                <angle>
+                    180
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    3.66
+                </distance>
+
+                <energy>
+                    0.069
+                </energy>
+
+                <scale>
+                    13.407
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    2.544
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Oxygen
+            <atom_symbol>
+            O
+            </atom_symbol>
+            <atom_type>
+                O_3
+            </atom_type>
+
+            <geometry_sym>
+            3
+            </geometry_sym>
+
+            <geometry_name>
+            tetrahedral
+            </geometry_name>
+            
+            <formal_oxidation>
+            na
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    0.658
+                </bond>
+
+                <angle>
+                    104.51
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    3.5
+                </distance>
+
+                <energy>
+                    0.06
+                </energy>
+
+                <scale>
+                    14.085
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    2.3
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Oxygen
+            <atom_symbol>
+            O
+            </atom_symbol>
+            <atom_type>
+                O_3_z 
+            </atom_type>
+
+            <geometry_sym>
+            3
+            </geometry_sym>
+
+            <geometry_name>
+            tetrahedral
+            </geometry_name>
+            
+            <formal_oxidation>
+            zeolite_latice
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    0.528
+                </bond>
+
+                <angle>
+                    146
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    3.5
+                </distance>
+
+                <energy>
+                    0.06
+                </energy>
+
+                <scale>
+                    14.085
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    2.3
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Oxygen
+            <atom_symbol>
+            O
+            </atom_symbol>
+            <atom_type>
+                O_R 
+            </atom_type>
+
+            <geometry_sym>
+            R
+            </geometry_sym>
+
+            <geometry_name>
+            resonant
+            </geometry_name>
+            
+            <formal_oxidation>
+            na
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    0.68
+                </bond>
+
+                <angle>
+                    110
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    3.5
+                </distance>
+
+                <energy>
+                    0.06
+                </energy>
+
+                <scale>
+                    14.085
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    2.3
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Oxygen
+            <atom_symbol>
+            O
+            </atom_symbol>
+            <atom_type>
+                O_2
+            </atom_type>
+
+            <geometry_sym>
+            2
+            </geometry_sym>
+
+            <geometry_name>
+            trigonal
+            </geometry_name>
+            
+            <formal_oxidation>
+            na
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    0.634
+                </bond>
+
+                <angle>
+                    120
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    3.5
+                </distance>
+
+                <energy>
+                    0.06
+                </energy>
+
+                <scale>
+                    14.085
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    2.3
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Oxygen
+            <atom_symbol>
+            O
+            </atom_symbol>
+            <atom_type>
+                O_1
+            </atom_type>
+
+            <geometry_sym>
+            1
+            </geometry_sym>
+
+            <geometry_name>
+            Linear
+            </geometry_name>
+            
+            <formal_oxidation>
+            na
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    0.639
+                </bond>
+
+                <angle>
+                    180
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    3.5
+                </distance>
+
+                <energy>
+                    0.06
+                </energy>
+
+                <scale>
+                    14.085
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    2.3
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Fluorine
+            <atom_symbol>
+            F
+            </atom_symbol>
+            <atom_type>
+                F_ 
+            </atom_type>
+
+            <geometry_sym>
+            
+            </geometry_sym>
+
+            <geometry_name>
+            na
+            </geometry_name>
+            
+            <formal_oxidation>
+            na
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    0.668
+                </bond>
+
+                <angle>
+                    180
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    3.364
+                </distance>
+
+                <energy>
+                    0.05
+                </energy>
+
+                <scale>
+                    14.762
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    1.735
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Neon
+            <atom_symbol>
+            Ne
+            </atom_symbol>
+            <atom_type>
+                Ne4 +4
+            </atom_type>
+
+            <geometry_sym>
+            4
+            </geometry_sym>
+
+            <geometry_name>
+            square
+            </geometry_name>
+            
+            <formal_oxidation>
+            4
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    0.92
+                </bond>
+
+                <angle>
+                    90
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    3.243
+                </distance>
+
+                <energy>
+                    0.042
+                </energy>
+
+                <scale>
+                    15.44
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    0.194
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Sodium
+            <atom_symbol>
+            Na
+            </atom_symbol>
+            <atom_type>
+                Na 
+            </atom_type>
+
+            <geometry_sym>
+            
+            </geometry_sym>
+
+            <geometry_name>
+            na
+            </geometry_name>
+            
+            <formal_oxidation>
+            na
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.539
+                </bond>
+
+                <angle>
+                    180
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    2.983
+                </distance>
+
+                <energy>
+                    0.03
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    1.081
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Magnesium
+            <atom_symbol>
+            Mg
+            </atom_symbol>
+            <atom_type>
+                Mg3 +2
+            </atom_type>
+
+            <geometry_sym>
+            3
+            </geometry_sym>
+
+            <geometry_name>
+            tetrahedral
+            </geometry_name>
+            
+            <formal_oxidation>
+            2
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.421
+                </bond>
+
+                <angle>
+                    109.47
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    3.021
+                </distance>
+
+                <energy>
+                    0.111
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    1.787
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Aluminum
+            <atom_symbol>
+            Al
+            </atom_symbol>
+            <atom_type>
+                Al3 
+            </atom_type>
+
+            <geometry_sym>
+            3
+            </geometry_sym>
+
+            <geometry_name>
+            tetrahedral
+            </geometry_name>
+            
+            <formal_oxidation>
+            na
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.244
+                </bond>
+
+                <angle>
+                    109.47
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    4.499
+                </distance>
+
+                <energy>
+                    0.505
+                </energy>
+
+                <scale>
+                    11.278
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    1.792
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Silicon
+            <atom_symbol>
+            Si
+            </atom_symbol>
+            <atom_type>
+                Si3 
+            </atom_type>
+
+            <geometry_sym>
+            3
+            </geometry_sym>
+
+            <geometry_name>
+            tetrahedral
+            </geometry_name>
+            
+            <formal_oxidation>
+            na
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.117
+                </bond>
+
+                <angle>
+                    109.47
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    4.295
+                </distance>
+
+                <energy>
+                    0.402
+                </energy>
+
+                <scale>
+                    12.175
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    2.323
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Phosphorus
+            <atom_symbol>
+            P
+            </atom_symbol>
+            <atom_type>
+                P_3 +3
+            </atom_type>
+
+            <geometry_sym>
+            3
+            </geometry_sym>
+
+            <geometry_name>
+            tetrahedral
+            </geometry_name>
+            
+            <formal_oxidation>
+            3
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.101
+                </bond>
+
+                <angle>
+                    93.8
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    4.147
+                </distance>
+
+                <energy>
+                    0.305
+                </energy>
+
+                <scale>
+                    13.072
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    2.863
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Phosphorus
+            <atom_symbol>
+            P
+            </atom_symbol>
+            <atom_type>
+                P_3 +5
+            </atom_type>
+
+            <geometry_sym>
+            3
+            </geometry_sym>
+
+            <geometry_name>
+            tetrahedral
+            </geometry_name>
+            
+            <formal_oxidation>
+            5
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.056
+                </bond>
+
+                <angle>
+                    109.47
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    4.147
+                </distance>
+
+                <energy>
+                    0.305
+                </energy>
+
+                <scale>
+                    13.072
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    2.863
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Phosphorus
+            <atom_symbol>
+            P
+            </atom_symbol>
+            <atom_type>
+                P_3 +q 
+            </atom_type>
+
+            <geometry_sym>
+            3
+            </geometry_sym>
+
+            <geometry_name>
+            tetrahedral
+            </geometry_name>
+            
+            <formal_oxidation>
+            metalic_coordinated_phosphine
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.056
+                </bond>
+
+                <angle>
+                    109.47
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    4.147
+                </distance>
+
+                <energy>
+                    0.305
+                </energy>
+
+                <scale>
+                    13.072
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    2.863
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Sulfur
+            <atom_symbol>
+            S
+            </atom_symbol>
+            <atom_type>
+                S_3 +2
+            </atom_type>
+
+            <geometry_sym>
+            3
+            </geometry_sym>
+
+            <geometry_name>
+            tetrahedral
+            </geometry_name>
+            
+            <formal_oxidation>
+            2
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.064
+                </bond>
+
+                <angle>
+                    92.1
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    4.035
+                </distance>
+
+                <energy>
+                    0.274
+                </energy>
+
+                <scale>
+                    13.969
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    2.703
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Sulfur
+            <atom_symbol>
+            S
+            </atom_symbol>
+            <atom_type>
+                S_3 +4
+            </atom_type>
+
+            <geometry_sym>
+            3
+            </geometry_sym>
+
+            <geometry_name>
+            tetrahedral
+            </geometry_name>
+            
+            <formal_oxidation>
+            4
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.049
+                </bond>
+
+                <angle>
+                    103.2
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    4.035
+                </distance>
+
+                <energy>
+                    0.274
+                </energy>
+
+                <scale>
+                    13.969
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    2.703
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Sulfur
+            <atom_symbol>
+            S
+            </atom_symbol>
+            <atom_type>
+                S_3 +6
+            </atom_type>
+
+            <geometry_sym>
+            3
+            </geometry_sym>
+
+            <geometry_name>
+            tetrahedral
+            </geometry_name>
+            
+            <formal_oxidation>
+            6
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.027
+                </bond>
+
+                <angle>
+                    109.47
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    4.035
+                </distance>
+
+                <energy>
+                    0.274
+                </energy>
+
+                <scale>
+                    13.969
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    2.703
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Sulfur
+            <atom_symbol>
+            S
+            </atom_symbol>
+            <atom_type>
+                S_R 
+            </atom_type>
+
+            <geometry_sym>
+            R
+            </geometry_sym>
+
+            <geometry_name>
+            resonant
+            </geometry_name>
+            
+            <formal_oxidation>
+            na
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.077
+                </bond>
+
+                <angle>
+                    92.2
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    4.035
+                </distance>
+
+                <energy>
+                    0.274
+                </energy>
+
+                <scale>
+                    13.969
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    2.703
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Sulfur
+            <atom_symbol>
+            S
+            </atom_symbol>
+            <atom_type>
+                S_2 
+            </atom_type>
+
+            <geometry_sym>
+            2
+            </geometry_sym>
+
+            <geometry_name>
+            trigonal
+            </geometry_name>
+            
+            <formal_oxidation>
+            na
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    0.854
+                </bond>
+
+                <angle>
+                    120
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    4.035
+                </distance>
+
+                <energy>
+                    0.274
+                </energy>
+
+                <scale>
+                    13.969
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    2.703
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Chlorine
+            <atom_symbol>
+            Cl
+            </atom_symbol>
+            <atom_type>
+                Cl 
+            </atom_type>
+
+            <geometry_sym>
+            
+            </geometry_sym>
+
+            <geometry_name>
+            na
+            </geometry_name>
+            
+            <formal_oxidation>
+            na
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.044
+                </bond>
+
+                <angle>
+                    180
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    3.947
+                </distance>
+
+                <energy>
+                    0.227
+                </energy>
+
+                <scale>
+                    14.866
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    2.348
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Argon
+            <atom_symbol>
+            Ar
+            </atom_symbol>
+            <atom_type>
+                Ar4 +4
+            </atom_type>
+
+            <geometry_sym>
+            4
+            </geometry_sym>
+
+            <geometry_name>
+            square
+            </geometry_name>
+            
+            <formal_oxidation>
+            4
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.032
+                </bond>
+
+                <angle>
+                    90
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    3.868
+                </distance>
+
+                <energy>
+                    0.185
+                </energy>
+
+                <scale>
+                    15.763
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    0.3
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Potassium
+            <atom_symbol>
+            K
+            </atom_symbol>
+            <atom_type>
+                K 
+            </atom_type>
+
+            <geometry_sym>
+            
+            </geometry_sym>
+
+            <geometry_name>
+            na
+            </geometry_name>
+            
+            <formal_oxidation>
+            na
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.953
+                </bond>
+
+                <angle>
+                    180
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    3.812
+                </distance>
+
+                <energy>
+                    0.035
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    1.165
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Calcium
+            <atom_symbol>
+            Ca
+            </atom_symbol>
+            <atom_type>
+                Ca6 +2
+            </atom_type>
+
+            <geometry_sym>
+            6
+            </geometry_sym>
+
+            <geometry_name>
+            octahedral.
+            </geometry_name>
+            
+            <formal_oxidation>
+            2
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.761
+                </bond>
+
+                <angle>
+                    90
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    3.399
+                </distance>
+
+                <energy>
+                    0.238
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    2.141
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Scandium
+            <atom_symbol>
+            Sc
+            </atom_symbol>
+            <atom_type>
+                Sc3 +3
+            </atom_type>
+
+            <geometry_sym>
+            3
+            </geometry_sym>
+
+            <geometry_name>
+            tetrahedral
+            </geometry_name>
+            
+            <formal_oxidation>
+            3
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.513
+                </bond>
+
+                <angle>
+                    109.47
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    3.295
+                </distance>
+
+                <energy>
+                    0.019
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    2.592
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Titanium
+            <atom_symbol>
+            Ti
+            </atom_symbol>
+            <atom_type>
+                Ti3 +4
+            </atom_type>
+
+            <geometry_sym>
+            3
+            </geometry_sym>
+
+            <geometry_name>
+            tetrahedral
+            </geometry_name>
+            
+            <formal_oxidation>
+            4
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.412
+                </bond>
+
+                <angle>
+                    109.47
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    3.175
+                </distance>
+
+                <energy>
+                    0.017
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    2.659
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Titanium
+            <atom_symbol>
+            Ti
+            </atom_symbol>
+            <atom_type>
+                Ti6 +4
+            </atom_type>
+
+            <geometry_sym>
+            6
+            </geometry_sym>
+
+            <geometry_name>
+            octahedral.
+            </geometry_name>
+            
+            <formal_oxidation>
+            4
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.412
+                </bond>
+
+                <angle>
+                    90
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    3.175
+                </distance>
+
+                <energy>
+                    0.017
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    2.659
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Vanadium
+            <atom_symbol>
+            V
+            </atom_symbol>
+            <atom_type>
+                V_3 +5
+            </atom_type>
+
+            <geometry_sym>
+            3
+            </geometry_sym>
+
+            <geometry_name>
+            tetrahedral
+            </geometry_name>
+            
+            <formal_oxidation>
+            5
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.402
+                </bond>
+
+                <angle>
+                    109.47
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    3.144
+                </distance>
+
+                <energy>
+                    0.016
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    2.679
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Chromium
+            <atom_symbol>
+            Cr
+            </atom_symbol>
+            <atom_type>
+                Cr6 +3
+            </atom_type>
+
+            <geometry_sym>
+            6
+            </geometry_sym>
+
+            <geometry_name>
+            octahedral.
+            </geometry_name>
+            
+            <formal_oxidation>
+            3
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.345
+                </bond>
+
+                <angle>
+                    90
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    3.023
+                </distance>
+
+                <energy>
+                    0.015
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    2.463
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Manganese
+            <atom_symbol>
+            Mn
+            </atom_symbol>
+            <atom_type>
+                Mn6 +2
+            </atom_type>
+
+            <geometry_sym>
+            6
+            </geometry_sym>
+
+            <geometry_name>
+            octahedral.
+            </geometry_name>
+            
+            <formal_oxidation>
+            2
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.382
+                </bond>
+
+                <angle>
+                    90
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    2.961
+                </distance>
+
+                <energy>
+                    0.013
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    2.43
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Iron
+            <atom_symbol>
+            Fe
+            </atom_symbol>
+            <atom_type>
+                Fe3 +2
+            </atom_type>
+
+            <geometry_sym>
+            3
+            </geometry_sym>
+
+            <geometry_name>
+            tetrahedral
+            </geometry_name>
+            
+            <formal_oxidation>
+            2
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.27
+                </bond>
+
+                <angle>
+                    109.47
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    2.912
+                </distance>
+
+                <energy>
+                    0.013
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    2.43
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Iron
+            <atom_symbol>
+            Fe
+            </atom_symbol>
+            <atom_type>
+                Fe6 +2
+            </atom_type>
+
+            <geometry_sym>
+            6
+            </geometry_sym>
+
+            <geometry_name>
+            octahedral.
+            </geometry_name>
+            
+            <formal_oxidation>
+            2
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.335
+                </bond>
+
+                <angle>
+                    90
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    2.912
+                </distance>
+
+                <energy>
+                    0.013
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    2.43
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Cobalt
+            <atom_symbol>
+            Co
+            </atom_symbol>
+            <atom_type>
+                C06 +3
+            </atom_type>
+
+            <geometry_sym>
+            6
+            </geometry_sym>
+
+            <geometry_name>
+            octahedral.
+            </geometry_name>
+            
+            <formal_oxidation>
+            3
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.241
+                </bond>
+
+                <angle>
+                    90
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    2.872
+                </distance>
+
+                <energy>
+                    0.014
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    2.43
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Nickel
+            <atom_symbol>
+            Ni
+            </atom_symbol>
+            <atom_type>
+                Ni4 +2
+            </atom_type>
+
+            <geometry_sym>
+            4
+            </geometry_sym>
+
+            <geometry_name>
+            square
+            </geometry_name>
+            
+            <formal_oxidation>
+            2
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.164
+                </bond>
+
+                <angle>
+                    90
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    2.834
+                </distance>
+
+                <energy>
+                    0.015
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    2.43
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Copper
+            <atom_symbol>
+            Cu
+            </atom_symbol>
+            <atom_type>
+                Cu3 +1
+            </atom_type>
+
+            <geometry_sym>
+            3
+            </geometry_sym>
+
+            <geometry_name>
+            tetrahedral
+            </geometry_name>
+            
+            <formal_oxidation>
+            1
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.302
+                </bond>
+
+                <angle>
+                    109.47
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    3.495
+                </distance>
+
+                <energy>
+                    0.005
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    1.756
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Zinc
+            <atom_symbol>
+            Zn
+            </atom_symbol>
+            <atom_type>
+                Zn3 +2
+            </atom_type>
+
+            <geometry_sym>
+            3
+            </geometry_sym>
+
+            <geometry_name>
+            tetrahedral
+            </geometry_name>
+            
+            <formal_oxidation>
+            2
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.193
+                </bond>
+
+                <angle>
+                    109.47
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    2.763
+                </distance>
+
+                <energy>
+                    0.124
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    1.308
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Gallium
+            <atom_symbol>
+            Ga
+            </atom_symbol>
+            <atom_type>
+                Ga3 +3
+            </atom_type>
+
+            <geometry_sym>
+            3
+            </geometry_sym>
+
+            <geometry_name>
+            tetrahedral
+            </geometry_name>
+            
+            <formal_oxidation>
+            3
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.26
+                </bond>
+
+                <angle>
+                    109.47
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    4.383
+                </distance>
+
+                <energy>
+                    0.415
+                </energy>
+
+                <scale>
+                    11
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    1.821
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Germanium
+            <atom_symbol>
+            Ge
+            </atom_symbol>
+            <atom_type>
+                Ge3 
+            </atom_type>
+
+            <geometry_sym>
+            3
+            </geometry_sym>
+
+            <geometry_name>
+            tetrahedral
+            </geometry_name>
+            
+            <formal_oxidation>
+            na
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.197
+                </bond>
+
+                <angle>
+                    109.47
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    4.28
+                </distance>
+
+                <energy>
+                    0.379
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    2.789
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Arsenic
+            <atom_symbol>
+            As
+            </atom_symbol>
+            <atom_type>
+                As3 +3
+            </atom_type>
+
+            <geometry_sym>
+            3
+            </geometry_sym>
+
+            <geometry_name>
+            tetrahedral
+            </geometry_name>
+            
+            <formal_oxidation>
+            3
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.211
+                </bond>
+
+                <angle>
+                    92.1
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    4.23
+                </distance>
+
+                <energy>
+                    0.309
+                </energy>
+
+                <scale>
+                    13
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    2.864
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Selenium
+            <atom_symbol>
+            Se
+            </atom_symbol>
+            <atom_type>
+                Se3 +2
+            </atom_type>
+
+            <geometry_sym>
+            3
+            </geometry_sym>
+
+            <geometry_name>
+            tetrahedral
+            </geometry_name>
+            
+            <formal_oxidation>
+            2
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.19
+                </bond>
+
+                <angle>
+                    90.6
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    4.205
+                </distance>
+
+                <energy>
+                    0.291
+                </energy>
+
+                <scale>
+                    14
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    2.764
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Bromine
+            <atom_symbol>
+            Br
+            </atom_symbol>
+            <atom_type>
+                Br 
+            </atom_type>
+
+            <geometry_sym>
+            
+            </geometry_sym>
+
+            <geometry_name>
+            na
+            </geometry_name>
+            
+            <formal_oxidation>
+            na
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.192
+                </bond>
+
+                <angle>
+                    180
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    4.189
+                </distance>
+
+                <energy>
+                    0.251
+                </energy>
+
+                <scale>
+                    15
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    2.519
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Krypton
+            <atom_symbol>
+            Kr
+            </atom_symbol>
+            <atom_type>
+                Kr4 +4
+            </atom_type>
+
+            <geometry_sym>
+            4
+            </geometry_sym>
+
+            <geometry_name>
+            square
+            </geometry_name>
+            
+            <formal_oxidation>
+            4
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.147
+                </bond>
+
+                <angle>
+                    90
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    4.141
+                </distance>
+
+                <energy>
+                    0.22
+                </energy>
+
+                <scale>
+                    16
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    0.452
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Rubidium
+            <atom_symbol>
+            Rb
+            </atom_symbol>
+            <atom_type>
+                Rb 
+            </atom_type>
+
+            <geometry_sym>
+            
+            </geometry_sym>
+
+            <geometry_name>
+            na
+            </geometry_name>
+            
+            <formal_oxidation>
+            na
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    2.26
+                </bond>
+
+                <angle>
+                    180
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    4.114
+                </distance>
+
+                <energy>
+                    0.04
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    1.592
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Strontium
+            <atom_symbol>
+            Sr
+            </atom_symbol>
+            <atom_type>
+                Sr6 +2
+            </atom_type>
+
+            <geometry_sym>
+            6
+            </geometry_sym>
+
+            <geometry_name>
+            octahedral.
+            </geometry_name>
+            
+            <formal_oxidation>
+            2
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    2.052
+                </bond>
+
+                <angle>
+                    90
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    3.641
+                </distance>
+
+                <energy>
+                    0.235
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    2.449
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Yttrium
+            <atom_symbol>
+            Y
+            </atom_symbol>
+            <atom_type>
+                Y_3 +3
+            </atom_type>
+
+            <geometry_sym>
+            3
+            </geometry_sym>
+
+            <geometry_name>
+            tetrahedral
+            </geometry_name>
+            
+            <formal_oxidation>
+            3
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.698
+                </bond>
+
+                <angle>
+                    109.47
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    3.345
+                </distance>
+
+                <energy>
+                    0.072
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    3.257
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Zirconium
+            <atom_symbol>
+            Zr
+            </atom_symbol>
+            <atom_type>
+                Zr3 +4
+            </atom_type>
+
+            <geometry_sym>
+            3
+            </geometry_sym>
+
+            <geometry_name>
+            tetrahedral
+            </geometry_name>
+            
+            <formal_oxidation>
+            4
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.564
+                </bond>
+
+                <angle>
+                    109.47
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    3.124
+                </distance>
+
+                <energy>
+                    0.069
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    3.667
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Niobium
+            <atom_symbol>
+            Nb
+            </atom_symbol>
+            <atom_type>
+                Nb3 +5
+            </atom_type>
+
+            <geometry_sym>
+            3
+            </geometry_sym>
+
+            <geometry_name>
+            tetrahedral
+            </geometry_name>
+            
+            <formal_oxidation>
+            5
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.473
+                </bond>
+
+                <angle>
+                    109.47
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    3.165
+                </distance>
+
+                <energy>
+                    0.059
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    3.618
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Molybdenum
+            <atom_symbol>
+            Mo
+            </atom_symbol>
+            <atom_type>
+                Mo6 +6
+            </atom_type>
+
+            <geometry_sym>
+            6
+            </geometry_sym>
+
+            <geometry_name>
+            octahedral.
+            </geometry_name>
+            
+            <formal_oxidation>
+            6
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.467
+                </bond>
+
+                <angle>
+                    90
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    3.052
+                </distance>
+
+                <energy>
+                    0.056
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    3.4
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Molybdenum
+            <atom_symbol>
+            Mo
+            </atom_symbol>
+            <atom_type>
+                Mo3 +6
+            </atom_type>
+
+            <geometry_sym>
+            3
+            </geometry_sym>
+
+            <geometry_name>
+            tetrahedral
+            </geometry_name>
+            
+            <formal_oxidation>
+            6
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.484
+                </bond>
+
+                <angle>
+                    109.47
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    3.052
+                </distance>
+
+                <energy>
+                    0.056
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    3.4
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Technetium
+            <atom_symbol>
+            Tc
+            </atom_symbol>
+            <atom_type>
+                Tc6 +5
+            </atom_type>
+
+            <geometry_sym>
+            6
+            </geometry_sym>
+
+            <geometry_name>
+            octahedral.
+            </geometry_name>
+            
+            <formal_oxidation>
+            5
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.322
+                </bond>
+
+                <angle>
+                    90
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    2.998
+                </distance>
+
+                <energy>
+                    0.048
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    3.4
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Ruthenium
+            <atom_symbol>
+            Ru
+            </atom_symbol>
+            <atom_type>
+                Ru6 +2
+            </atom_type>
+
+            <geometry_sym>
+            6
+            </geometry_sym>
+
+            <geometry_name>
+            octahedral.
+            </geometry_name>
+            
+            <formal_oxidation>
+            2
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.478
+                </bond>
+
+                <angle>
+                    90
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    2.963
+                </distance>
+
+                <energy>
+                    0.056
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    3.4
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Rhodium
+            <atom_symbol>
+            Rh
+            </atom_symbol>
+            <atom_type>
+                Rh6 +3
+            </atom_type>
+
+            <geometry_sym>
+            6
+            </geometry_sym>
+
+            <geometry_name>
+            octahedral.
+            </geometry_name>
+            
+            <formal_oxidation>
+            3
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.332
+                </bond>
+
+                <angle>
+                    90
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    2.929
+                </distance>
+
+                <energy>
+                    0.053
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    3.508
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Palladium
+            <atom_symbol>
+            Pd
+            </atom_symbol>
+            <atom_type>
+                Pd4 +2
+            </atom_type>
+
+            <geometry_sym>
+            4
+            </geometry_sym>
+
+            <geometry_name>
+            square
+            </geometry_name>
+            
+            <formal_oxidation>
+            2
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.338
+                </bond>
+
+                <angle>
+                    90
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    2.899
+                </distance>
+
+                <energy>
+                    0.048
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    3.21
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Silver
+            <atom_symbol>
+            Ag
+            </atom_symbol>
+            <atom_type>
+                Ag1 +1
+            </atom_type>
+
+            <geometry_sym>
+            1
+            </geometry_sym>
+
+            <geometry_name>
+            Linear
+            </geometry_name>
+            
+            <formal_oxidation>
+            1
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.386
+                </bond>
+
+                <angle>
+                    180
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    3.148
+                </distance>
+
+                <energy>
+                    0.036
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    1.956
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Cadmium
+            <atom_symbol>
+            Cd
+            </atom_symbol>
+            <atom_type>
+                Cd3 +2
+            </atom_type>
+
+            <geometry_sym>
+            3
+            </geometry_sym>
+
+            <geometry_name>
+            tetrahedral
+            </geometry_name>
+            
+            <formal_oxidation>
+            2
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.403
+                </bond>
+
+                <angle>
+                    109.47
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    2.848
+                </distance>
+
+                <energy>
+                    0.228
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    1.65
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Indium
+            <atom_symbol>
+            In
+            </atom_symbol>
+            <atom_type>
+                In3 +3
+            </atom_type>
+
+            <geometry_sym>
+            3
+            </geometry_sym>
+
+            <geometry_name>
+            tetrahedral
+            </geometry_name>
+            
+            <formal_oxidation>
+            3
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.459
+                </bond>
+
+                <angle>
+                    109.47
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    4.463
+                </distance>
+
+                <energy>
+                    0.599
+                </energy>
+
+                <scale>
+                    11
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    2.07
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Tin
+            <atom_symbol>
+            Sn
+            </atom_symbol>
+            <atom_type>
+                Sn3 
+            </atom_type>
+
+            <geometry_sym>
+            3
+            </geometry_sym>
+
+            <geometry_name>
+            tetrahedral
+            </geometry_name>
+            
+            <formal_oxidation>
+            na
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.398
+                </bond>
+
+                <angle>
+                    109.47
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    4.392
+                </distance>
+
+                <energy>
+                    0.567
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    2.961
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Antimony
+            <atom_symbol>
+            Sb
+            </atom_symbol>
+            <atom_type>
+                Sb3 +3
+            </atom_type>
+
+            <geometry_sym>
+            3
+            </geometry_sym>
+
+            <geometry_name>
+            tetrahedral
+            </geometry_name>
+            
+            <formal_oxidation>
+            3
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.407
+                </bond>
+
+                <angle>
+                    91.6
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    4.42
+                </distance>
+
+                <energy>
+                    0.449
+                </energy>
+
+                <scale>
+                    13
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    2.704
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Tellurium
+            <atom_symbol>
+            Te
+            </atom_symbol>
+            <atom_type>
+                Te3 +2
+            </atom_type>
+
+            <geometry_sym>
+            3
+            </geometry_sym>
+
+            <geometry_name>
+            tetrahedral
+            </geometry_name>
+            
+            <formal_oxidation>
+            2
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.386
+                </bond>
+
+                <angle>
+                    90.25
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    4.47
+                </distance>
+
+                <energy>
+                    0.398
+                </energy>
+
+                <scale>
+                    14
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    2.882
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Iodine
+            <atom_symbol>
+            I
+            </atom_symbol>
+            <atom_type>
+                I_
+            </atom_type>
+
+            <geometry_sym>
+            
+            </geometry_sym>
+
+            <geometry_name>
+            na
+            </geometry_name>
+            
+            <formal_oxidation>
+            na
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.382
+                </bond>
+
+                <angle>
+                    180
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    4.5
+                </distance>
+
+                <energy>
+                    0.339
+                </energy>
+
+                <scale>
+                    15
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    2.65
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Xenon
+            <atom_symbol>
+            Xe
+            </atom_symbol>
+            <atom_type>
+                Xe4 +4
+            </atom_type>
+
+            <geometry_sym>
+            4
+            </geometry_sym>
+
+            <geometry_name>
+            square
+            </geometry_name>
+            
+            <formal_oxidation>
+            4
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.267
+                </bond>
+
+                <angle>
+                    90
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    4.404
+                </distance>
+
+                <energy>
+                    0.332
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    0.556
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Cesium
+            <atom_symbol>
+            Cs
+            </atom_symbol>
+            <atom_type>
+                Cs 
+            </atom_type>
+
+            <geometry_sym>
+            
+            </geometry_sym>
+
+            <geometry_name>
+            na
+            </geometry_name>
+            
+            <formal_oxidation>
+            na
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    2.57
+                </bond>
+
+                <angle>
+                    180
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    4.517
+                </distance>
+
+                <energy>
+                    0.045
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    1.573
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Barium
+            <atom_symbol>
+            Ba
+            </atom_symbol>
+            <atom_type>
+                Ba6 +2
+            </atom_type>
+
+            <geometry_sym>
+            6
+            </geometry_sym>
+
+            <geometry_name>
+            octahedral.
+            </geometry_name>
+            
+            <formal_oxidation>
+            2
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    2.277
+                </bond>
+
+                <angle>
+                    90
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    3.703
+                </distance>
+
+                <energy>
+                    0.364
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    2.727
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Lanthanum
+            <atom_symbol>
+            La
+            </atom_symbol>
+            <atom_type>
+                La3 +3
+            </atom_type>
+
+            <geometry_sym>
+            3
+            </geometry_sym>
+
+            <geometry_name>
+            tetrahedral
+            </geometry_name>
+            
+            <formal_oxidation>
+            3
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.943
+                </bond>
+
+                <angle>
+                    109.47
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    3.522
+                </distance>
+
+                <energy>
+                    0.017
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    3.3
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Cerium
+            <atom_symbol>
+            Ce
+            </atom_symbol>
+            <atom_type>
+                Ce6 +3
+            </atom_type>
+
+            <geometry_sym>
+            6
+            </geometry_sym>
+
+            <geometry_name>
+            octahedral.
+            </geometry_name>
+            
+            <formal_oxidation>
+            3
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.841
+                </bond>
+
+                <angle>
+                    90
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    3.556
+                </distance>
+
+                <energy>
+                    0.013
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    3.3
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Praseodymium
+            <atom_symbol>
+            Pr
+            </atom_symbol>
+            <atom_type>
+                Pr6 +3
+            </atom_type>
+
+            <geometry_sym>
+            6
+            </geometry_sym>
+
+            <geometry_name>
+            octahedral.
+            </geometry_name>
+            
+            <formal_oxidation>
+            3
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.823
+                </bond>
+
+                <angle>
+                    90
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    3.606
+                </distance>
+
+                <energy>
+                    0.01
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    3.3
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Neodymium
+            <atom_symbol>
+            Nd
+            </atom_symbol>
+            <atom_type>
+                Nd6 +3
+            </atom_type>
+
+            <geometry_sym>
+            6
+            </geometry_sym>
+
+            <geometry_name>
+            octahedral.
+            </geometry_name>
+            
+            <formal_oxidation>
+            3
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.816
+                </bond>
+
+                <angle>
+                    90
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    3.575
+                </distance>
+
+                <energy>
+                    0.01
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    3.3
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Promethium
+            <atom_symbol>
+            Pm
+            </atom_symbol>
+            <atom_type>
+                Pm6 +3
+            </atom_type>
+
+            <geometry_sym>
+            6
+            </geometry_sym>
+
+            <geometry_name>
+            octahedral.
+            </geometry_name>
+            
+            <formal_oxidation>
+            3
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.801
+                </bond>
+
+                <angle>
+                    90
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    3.547
+                </distance>
+
+                <energy>
+                    0.009
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    3.3
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Samarium
+            <atom_symbol>
+            Sm
+            </atom_symbol>
+            <atom_type>
+                Sm6 +3
+            </atom_type>
+
+            <geometry_sym>
+            6
+            </geometry_sym>
+
+            <geometry_name>
+            octahedral.
+            </geometry_name>
+            
+            <formal_oxidation>
+            3
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.78
+                </bond>
+
+                <angle>
+                    90
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    3.52
+                </distance>
+
+                <energy>
+                    0.008
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    3.3
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Europium
+            <atom_symbol>
+            Eu
+            </atom_symbol>
+            <atom_type>
+                Eu6 +3
+            </atom_type>
+
+            <geometry_sym>
+            6
+            </geometry_sym>
+
+            <geometry_name>
+            octahedral.
+            </geometry_name>
+            
+            <formal_oxidation>
+            3
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.771
+                </bond>
+
+                <angle>
+                    90
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    3.493
+                </distance>
+
+                <energy>
+                    0.008
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    3.3
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Gadolinium
+            <atom_symbol>
+            Gd
+            </atom_symbol>
+            <atom_type>
+                Gd6 +3
+            </atom_type>
+
+            <geometry_sym>
+            6
+            </geometry_sym>
+
+            <geometry_name>
+            octahedral.
+            </geometry_name>
+            
+            <formal_oxidation>
+            3
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.735
+                </bond>
+
+                <angle>
+                    90
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    3.368
+                </distance>
+
+                <energy>
+                    0.009
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    3.3
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Terbium
+            <atom_symbol>
+            Tb
+            </atom_symbol>
+            <atom_type>
+                Tb6 +3
+            </atom_type>
+
+            <geometry_sym>
+            6
+            </geometry_sym>
+
+            <geometry_name>
+            octahedral.
+            </geometry_name>
+            
+            <formal_oxidation>
+            3
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.732
+                </bond>
+
+                <angle>
+                    90
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    3.451
+                </distance>
+
+                <energy>
+                    0.007
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    3.3
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Dysprosium
+            <atom_symbol>
+            Dy
+            </atom_symbol>
+            <atom_type>
+                Dy6 +3
+            </atom_type>
+
+            <geometry_sym>
+            6
+            </geometry_sym>
+
+            <geometry_name>
+            octahedral.
+            </geometry_name>
+            
+            <formal_oxidation>
+            3
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.71
+                </bond>
+
+                <angle>
+                    90
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    3.428
+                </distance>
+
+                <energy>
+                    0.007
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    3.3
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Holmium
+            <atom_symbol>
+            Ho
+            </atom_symbol>
+            <atom_type>
+                Ho6 +3
+            </atom_type>
+
+            <geometry_sym>
+            6
+            </geometry_sym>
+
+            <geometry_name>
+            octahedral.
+            </geometry_name>
+            
+            <formal_oxidation>
+            3
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.696
+                </bond>
+
+                <angle>
+                    90
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    3.409
+                </distance>
+
+                <energy>
+                    0.007
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    3.416
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Erbium
+            <atom_symbol>
+            Er
+            </atom_symbol>
+            <atom_type>
+                Er6 +3
+            </atom_type>
+
+            <geometry_sym>
+            6
+            </geometry_sym>
+
+            <geometry_name>
+            octahedral.
+            </geometry_name>
+            
+            <formal_oxidation>
+            3
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.673
+                </bond>
+
+                <angle>
+                    90
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    3.391
+                </distance>
+
+                <energy>
+                    0.007
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    3.3
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Thulium
+            <atom_symbol>
+            Tm
+            </atom_symbol>
+            <atom_type>
+                Tm6 +3
+            </atom_type>
+
+            <geometry_sym>
+            6
+            </geometry_sym>
+
+            <geometry_name>
+            octahedral.
+            </geometry_name>
+            
+            <formal_oxidation>
+            3
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.66
+                </bond>
+
+                <angle>
+                    90
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    3.374
+                </distance>
+
+                <energy>
+                    0.006
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    3.3
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Ytterbium
+            <atom_symbol>
+            Yb
+            </atom_symbol>
+            <atom_type>
+                Yb6 +3
+            </atom_type>
+
+            <geometry_sym>
+            6
+            </geometry_sym>
+
+            <geometry_name>
+            octahedral.
+            </geometry_name>
+            
+            <formal_oxidation>
+            3
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.637
+                </bond>
+
+                <angle>
+                    90
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    3.355
+                </distance>
+
+                <energy>
+                    0.228
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    2.618
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Lutetium
+            <atom_symbol>
+            Lu
+            </atom_symbol>
+            <atom_type>
+                Lu6 +3
+            </atom_type>
+
+            <geometry_sym>
+            6
+            </geometry_sym>
+
+            <geometry_name>
+            octahedral.
+            </geometry_name>
+            
+            <formal_oxidation>
+            3
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.671
+                </bond>
+
+                <angle>
+                    90
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    3.64
+                </distance>
+
+                <energy>
+                    0.041
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    3.271
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Hafnium
+            <atom_symbol>
+            Hf
+            </atom_symbol>
+            <atom_type>
+                Hf3 +4
+            </atom_type>
+
+            <geometry_sym>
+            3
+            </geometry_sym>
+
+            <geometry_name>
+            tetrahedral
+            </geometry_name>
+            
+            <formal_oxidation>
+            4
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.611
+                </bond>
+
+                <angle>
+                    109.47
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    3.141
+                </distance>
+
+                <energy>
+                    0.072
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    3.921
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Tantalum
+            <atom_symbol>
+            Ta
+            </atom_symbol>
+            <atom_type>
+                Ta3 +5
+            </atom_type>
+
+            <geometry_sym>
+            3
+            </geometry_sym>
+
+            <geometry_name>
+            tetrahedral
+            </geometry_name>
+            
+            <formal_oxidation>
+            5
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.511
+                </bond>
+
+                <angle>
+                    109.47
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    3.17
+                </distance>
+
+                <energy>
+                    0.081
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    4.075
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Wolfram
+            <atom_symbol>
+            W
+            </atom_symbol>
+            <atom_type>
+                W_6 +6
+            </atom_type>
+
+            <geometry_sym>
+            6
+            </geometry_sym>
+
+            <geometry_name>
+            octahedral.
+            </geometry_name>
+            
+            <formal_oxidation>
+            6
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.392
+                </bond>
+
+                <angle>
+                    90
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    3.069
+                </distance>
+
+                <energy>
+                    0.067
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    3.7
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Wolfram
+            <atom_symbol>
+            W
+            </atom_symbol>
+            <atom_type>
+                W_3 +4
+            </atom_type>
+
+            <geometry_sym>
+            3
+            </geometry_sym>
+
+            <geometry_name>
+            tetrahedral
+            </geometry_name>
+            
+            <formal_oxidation>
+            4
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.526
+                </bond>
+
+                <angle>
+                    109.47
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    3.069
+                </distance>
+
+                <energy>
+                    0.067
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    3.7
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Wolfram
+            <atom_symbol>
+            W
+            </atom_symbol>
+            <atom_type>
+                W_3 +6
+            </atom_type>
+
+            <geometry_sym>
+            3
+            </geometry_sym>
+
+            <geometry_name>
+            tetrahedral
+            </geometry_name>
+            
+            <formal_oxidation>
+            6
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.38
+                </bond>
+
+                <angle>
+                    109.47
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    3.069
+                </distance>
+
+                <energy>
+                    0.067
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    3.7
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Rhenium
+            <atom_symbol>
+            Re
+            </atom_symbol>
+            <atom_type>
+                Re6 +5
+            </atom_type>
+
+            <geometry_sym>
+            6
+            </geometry_sym>
+
+            <geometry_name>
+            octahedral.
+            </geometry_name>
+            
+            <formal_oxidation>
+            5
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.372
+                </bond>
+
+                <angle>
+                    90
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    2.954
+                </distance>
+
+                <energy>
+                    0.066
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    3.7
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Rhenium
+            <atom_symbol>
+            Re
+            </atom_symbol>
+            <atom_type>
+                Re3 +7
+            </atom_type>
+
+            <geometry_sym>
+            3
+            </geometry_sym>
+
+            <geometry_name>
+            tetrahedral
+            </geometry_name>
+            
+            <formal_oxidation>
+            7
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.314
+                </bond>
+
+                <angle>
+                    109.47
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    2.954
+                </distance>
+
+                <energy>
+                    0.066
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    3.7
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Osmium
+            <atom_symbol>
+            Os
+            </atom_symbol>
+            <atom_type>
+                Os6 +6
+            </atom_type>
+
+            <geometry_sym>
+            6
+            </geometry_sym>
+
+            <geometry_name>
+            octahedral.
+            </geometry_name>
+            
+            <formal_oxidation>
+            6
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.372
+                </bond>
+
+                <angle>
+                    90
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    3.12
+                </distance>
+
+                <energy>
+                    0.037
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    3.7
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Iridium
+            <atom_symbol>
+            Ir
+            </atom_symbol>
+            <atom_type>
+                Ir6 +3
+            </atom_type>
+
+            <geometry_sym>
+            6
+            </geometry_sym>
+
+            <geometry_name>
+            octahedral.
+            </geometry_name>
+            
+            <formal_oxidation>
+            3
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.371
+                </bond>
+
+                <angle>
+                    90
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    2.84
+                </distance>
+
+                <energy>
+                    0.073
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    3.731
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Platinum
+            <atom_symbol>
+            Pt
+            </atom_symbol>
+            <atom_type>
+                Pt4 +2
+            </atom_type>
+
+            <geometry_sym>
+            4
+            </geometry_sym>
+
+            <geometry_name>
+            square
+            </geometry_name>
+            
+            <formal_oxidation>
+            2
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.364
+                </bond>
+
+                <angle>
+                    90
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    2.754
+                </distance>
+
+                <energy>
+                    0.08
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    3.382
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Gold
+            <atom_symbol>
+            Au
+            </atom_symbol>
+            <atom_type>
+                Au4 +3
+            </atom_type>
+
+            <geometry_sym>
+            4
+            </geometry_sym>
+
+            <geometry_name>
+            square
+            </geometry_name>
+            
+            <formal_oxidation>
+            3
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.262
+                </bond>
+
+                <angle>
+                    90
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    3.293
+                </distance>
+
+                <energy>
+                    0.039
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    2.625
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Mercury
+            <atom_symbol>
+            Hg
+            </atom_symbol>
+            <atom_type>
+                Hg1 +2
+            </atom_type>
+
+            <geometry_sym>
+            1
+            </geometry_sym>
+
+            <geometry_name>
+            Linear
+            </geometry_name>
+            
+            <formal_oxidation>
+            2
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.34
+                </bond>
+
+                <angle>
+                    180
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    2.705
+                </distance>
+
+                <energy>
+                    0.385
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    1.75
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Thallium
+            <atom_symbol>
+            Tl
+            </atom_symbol>
+            <atom_type>
+                Tl3 +3
+            </atom_type>
+
+            <geometry_sym>
+            3
+            </geometry_sym>
+
+            <geometry_name>
+            tetrahedral
+            </geometry_name>
+            
+            <formal_oxidation>
+            3
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.518
+                </bond>
+
+                <angle>
+                    120
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    4.347
+                </distance>
+
+                <energy>
+                    0.68
+                </energy>
+
+                <scale>
+                    11
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    2.068
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Lead
+            <atom_symbol>
+            Pb
+            </atom_symbol>
+            <atom_type>
+                Pb3 
+            </atom_type>
+
+            <geometry_sym>
+            3
+            </geometry_sym>
+
+            <geometry_name>
+            tetrahedral
+            </geometry_name>
+            
+            <formal_oxidation>
+            na
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.459
+                </bond>
+
+                <angle>
+                    109.47
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    4.297
+                </distance>
+
+                <energy>
+                    0.663
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    2.846
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Bismuth
+            <atom_symbol>
+            Bi
+            </atom_symbol>
+            <atom_type>
+                Bi3 +3
+            </atom_type>
+
+            <geometry_sym>
+            3
+            </geometry_sym>
+
+            <geometry_name>
+            tetrahedral
+            </geometry_name>
+            
+            <formal_oxidation>
+            3
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.512
+                </bond>
+
+                <angle>
+                    90
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    4.37
+                </distance>
+
+                <energy>
+                    0.518
+                </energy>
+
+                <scale>
+                    13
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    2.47
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Polonium
+            <atom_symbol>
+            Po
+            </atom_symbol>
+            <atom_type>
+                Po3 +2
+            </atom_type>
+
+            <geometry_sym>
+            3
+            </geometry_sym>
+
+            <geometry_name>
+            tetrahedral
+            </geometry_name>
+            
+            <formal_oxidation>
+            2
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.5
+                </bond>
+
+                <angle>
+                    90
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    4.709
+                </distance>
+
+                <energy>
+                    0.325
+                </energy>
+
+                <scale>
+                    14
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    2.33
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Astatine
+            <atom_symbol>
+            At
+            </atom_symbol>
+            <atom_type>
+                At 
+            </atom_type>
+
+            <geometry_sym>
+            
+            </geometry_sym>
+
+            <geometry_name>
+            na
+            </geometry_name>
+            
+            <formal_oxidation>
+            na
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.545
+                </bond>
+
+                <angle>
+                    180
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    4.75
+                </distance>
+
+                <energy>
+                    0.284
+                </energy>
+
+                <scale>
+                    15
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    2.24
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Radon
+            <atom_symbol>
+            Rn
+            </atom_symbol>
+            <atom_type>
+                Rn4 +4
+            </atom_type>
+
+            <geometry_sym>
+            4
+            </geometry_sym>
+
+            <geometry_name>
+            square
+            </geometry_name>
+            
+            <formal_oxidation>
+            4
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.42
+                </bond>
+
+                <angle>
+                    90
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    4.765
+                </distance>
+
+                <energy>
+                    0.248
+                </energy>
+
+                <scale>
+                    16
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    0.583
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Francium
+            <atom_symbol>
+            Fr
+            </atom_symbol>
+            <atom_type>
+                Fr 
+            </atom_type>
+
+            <geometry_sym>
+            
+            </geometry_sym>
+
+            <geometry_name>
+            na
+            </geometry_name>
+            
+            <formal_oxidation>
+            na
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    2.88
+                </bond>
+
+                <angle>
+                    180
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    4.9
+                </distance>
+
+                <energy>
+                    0.05
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    1.847
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Radium
+            <atom_symbol>
+            Ra
+            </atom_symbol>
+            <atom_type>
+                Ra6 +2
+            </atom_type>
+
+            <geometry_sym>
+            6
+            </geometry_sym>
+
+            <geometry_name>
+            octahedral.
+            </geometry_name>
+            
+            <formal_oxidation>
+            2
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    2.512
+                </bond>
+
+                <angle>
+                    90
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    3.677
+                </distance>
+
+                <energy>
+                    0.404
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    2.92
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Actinium
+            <atom_symbol>
+            Ac
+            </atom_symbol>
+            <atom_type>
+                Ac6 +3
+            </atom_type>
+
+            <geometry_sym>
+            6
+            </geometry_sym>
+
+            <geometry_name>
+            octahedral.
+            </geometry_name>
+            
+            <formal_oxidation>
+            3
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.983
+                </bond>
+
+                <angle>
+                    90
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    3.478
+                </distance>
+
+                <energy>
+                    0.033
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    3.9
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Thorium
+            <atom_symbol>
+            Th
+            </atom_symbol>
+            <atom_type>
+                Th6 +4
+            </atom_type>
+
+            <geometry_sym>
+            6
+            </geometry_sym>
+
+            <geometry_name>
+            octahedral.
+            </geometry_name>
+            
+            <formal_oxidation>
+            4
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.721
+                </bond>
+
+                <angle>
+                    90
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    3.396
+                </distance>
+
+                <energy>
+                    0.026
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    4.202
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Protactinium
+            <atom_symbol>
+            Pa
+            </atom_symbol>
+            <atom_type>
+                Pa6 +4
+            </atom_type>
+
+            <geometry_sym>
+            6
+            </geometry_sym>
+
+            <geometry_name>
+            octahedral.
+            </geometry_name>
+            
+            <formal_oxidation>
+            4
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.711
+                </bond>
+
+                <angle>
+                    90
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    3.424
+                </distance>
+
+                <energy>
+                    0.022
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    3.9
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Uranium
+            <atom_symbol>
+            U
+            </atom_symbol>
+            <atom_type>
+                U_6 +4
+            </atom_type>
+
+            <geometry_sym>
+            6
+            </geometry_sym>
+
+            <geometry_name>
+            octahedral.
+            </geometry_name>
+            
+            <formal_oxidation>
+            4
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.684
+                </bond>
+
+                <angle>
+                    90
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    3.395
+                </distance>
+
+                <energy>
+                    0.022
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    3.9
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Neptunium
+            <atom_symbol>
+            Np
+            </atom_symbol>
+            <atom_type>
+                Np6 +4
+            </atom_type>
+
+            <geometry_sym>
+            6
+            </geometry_sym>
+
+            <geometry_name>
+            octahedral.
+            </geometry_name>
+            
+            <formal_oxidation>
+            4
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.666
+                </bond>
+
+                <angle>
+                    90
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    3.424
+                </distance>
+
+                <energy>
+                    0.019
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    3.9
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Plutonium
+            <atom_symbol>
+            Pu
+            </atom_symbol>
+            <atom_type>
+                Pu6 +4
+            </atom_type>
+
+            <geometry_sym>
+            6
+            </geometry_sym>
+
+            <geometry_name>
+            octahedral.
+            </geometry_name>
+            
+            <formal_oxidation>
+            4
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.657
+                </bond>
+
+                <angle>
+                    90
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    3.424
+                </distance>
+
+                <energy>
+                    0.016
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    3.9
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Americium
+            <atom_symbol>
+            Am
+            </atom_symbol>
+            <atom_type>
+                Am6 +4
+            </atom_type>
+
+            <geometry_sym>
+            6
+            </geometry_sym>
+
+            <geometry_name>
+            octahedral.
+            </geometry_name>
+            
+            <formal_oxidation>
+            4
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.66
+                </bond>
+
+                <angle>
+                    90
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    3.381
+                </distance>
+
+                <energy>
+                    0.014
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    3.9
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Curium
+            <atom_symbol>
+            Cm
+            </atom_symbol>
+            <atom_type>
+                Cm6 +3
+            </atom_type>
+
+            <geometry_sym>
+            6
+            </geometry_sym>
+
+            <geometry_name>
+            octahedral.
+            </geometry_name>
+            
+            <formal_oxidation>
+            3
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.801
+                </bond>
+
+                <angle>
+                    90
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    3.326
+                </distance>
+
+                <energy>
+                    0.013
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    3.9
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Berkelium
+            <atom_symbol>
+            Bk
+            </atom_symbol>
+            <atom_type>
+                Bk6 +3
+            </atom_type>
+
+            <geometry_sym>
+            6
+            </geometry_sym>
+
+            <geometry_name>
+            octahedral.
+            </geometry_name>
+            
+            <formal_oxidation>
+            3
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.761
+                </bond>
+
+                <angle>
+                    90
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    3.339
+                </distance>
+
+                <energy>
+                    0.013
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    3.9
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Californium
+            <atom_symbol>
+            Cf
+            </atom_symbol>
+            <atom_type>
+                Cf6 +3
+            </atom_type>
+
+            <geometry_sym>
+            6
+            </geometry_sym>
+
+            <geometry_name>
+            octahedral.
+            </geometry_name>
+            
+            <formal_oxidation>
+            3
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.75
+                </bond>
+
+                <angle>
+                    90
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    3.313
+                </distance>
+
+                <energy>
+                    0.013
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    3.9
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Einsteinium
+            <atom_symbol>
+            Es
+            </atom_symbol>
+            <atom_type>
+                Es6 +3
+            </atom_type>
+
+            <geometry_sym>
+            6
+            </geometry_sym>
+
+            <geometry_name>
+            octahedral.
+            </geometry_name>
+            
+            <formal_oxidation>
+            3
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.724
+                </bond>
+
+                <angle>
+                    90
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    3.299
+                </distance>
+
+                <energy>
+                    0.012
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    3.9
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Fermium
+            <atom_symbol>
+            Fm
+            </atom_symbol>
+            <atom_type>
+                Fm6 +3
+            </atom_type>
+
+            <geometry_sym>
+            6
+            </geometry_sym>
+
+            <geometry_name>
+            octahedral.
+            </geometry_name>
+            
+            <formal_oxidation>
+            3
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.712
+                </bond>
+
+                <angle>
+                    90
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    3.286
+                </distance>
+
+                <energy>
+                    0.012
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    3.9
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Mendelevium
+            <atom_symbol>
+            Md
+            </atom_symbol>
+            <atom_type>
+                Md6 +3
+            </atom_type>
+
+            <geometry_sym>
+            6
+            </geometry_sym>
+
+            <geometry_name>
+            octahedral.
+            </geometry_name>
+            
+            <formal_oxidation>
+            3
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.689
+                </bond>
+
+                <angle>
+                    90
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    3.274
+                </distance>
+
+                <energy>
+                    0.011
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    3.9
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Nobelium
+            <atom_symbol>
+            No
+            </atom_symbol>
+            <atom_type>
+                No6 +3
+            </atom_type>
+
+            <geometry_sym>
+            6
+            </geometry_sym>
+
+            <geometry_name>
+            octahedral.
+            </geometry_name>
+            
+            <formal_oxidation>
+            3
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.679
+                </bond>
+
+                <angle>
+                    90
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    3.248
+                </distance>
+
+                <energy>
+                    0.011
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    3.9
+            </effective_charge>
+    </atom_name>
+    
+
+
+        <atom_name>
+
+            Lawrencium
+            <atom_symbol>
+            Lr
+            </atom_symbol>
+            <atom_type>
+                Lw6 +3
+            </atom_type>
+
+            <geometry_sym>
+            6
+            </geometry_sym>
+
+            <geometry_name>
+            octahedral.
+            </geometry_name>
+            
+            <formal_oxidation>
+            3
+            </formal_oxidation>
+
+            <valence>
+                
+                <bond>
+                    1.698
+                </bond>
+
+                <angle>
+                    90
+                </angle>
+
+            </valence>
+
+            <nonbond>
+                
+                <distance>
+                    3.236
+                </distance>
+
+                <energy>
+                    0.011
+                </energy>
+
+                <scale>
+                    12
+                </scale>
+            </nonbond>
+
+            <effective_charge>
+                    3.9
+            </effective_charge>
+    </atom_name>
+    
+</atoms>

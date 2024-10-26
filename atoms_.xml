@@ -1,0 +1,4956 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<atoms>
+
+
+
+        <atom_type>
+            H_ 
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                0.354
+            </bond>
+
+            <angle>
+                180.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                2.886
+            </distance>
+
+            <energy>
+                0.044
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            0.712
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            H_b 
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                0.460
+            </bond>
+
+            <angle>
+                83.5
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                2.886
+            </distance>
+
+            <energy>
+                0.044
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            0.712
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            He4 +4
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                0.849
+            </bond>
+
+            <angle>
+                90.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                2.362
+            </distance>
+
+            <energy>
+                0.056
+            </energy>
+
+            <scale>
+                15.24
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            0.098
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Li 
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.336
+            </bond>
+
+            <angle>
+                180.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                2.451
+            </distance>
+
+            <energy>
+                0.025
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            1.026
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Be3 +2
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.074
+            </bond>
+
+            <angle>
+                109.47
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                2.745
+            </distance>
+
+            <energy>
+                0.085
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            1.565
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            B_3 
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                0.838
+            </bond>
+
+            <angle>
+                109.47
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                4.083
+            </distance>
+
+            <energy>
+                0.180
+            </energy>
+
+            <scale>
+                12.052
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            1.755
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            B_2 
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                0.828
+            </bond>
+
+            <angle>
+                120.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                4.083
+            </distance>
+
+            <energy>
+                0.180
+            </energy>
+
+            <scale>
+                12.052
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            1.755
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            C_3 
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                0.757
+            </bond>
+
+            <angle>
+                109.47
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                3.851
+            </distance>
+
+            <energy>
+                0.105
+            </energy>
+
+            <scale>
+                12.73
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            1.912
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            C_R 
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                0.729
+            </bond>
+
+            <angle>
+                120.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                3.851
+            </distance>
+
+            <energy>
+                0.105
+            </energy>
+
+            <scale>
+                12.73
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            1.912
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            C_2 
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                0.732
+            </bond>
+
+            <angle>
+                120.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                3.851
+            </distance>
+
+            <energy>
+                0.105
+            </energy>
+
+            <scale>
+                12.73
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            1.912
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            C_1 
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                0.706
+            </bond>
+
+            <angle>
+                180.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                3.851
+            </distance>
+
+            <energy>
+                0.105
+            </energy>
+
+            <scale>
+                12.73
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            1.912
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            N_3 
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                0.700
+            </bond>
+
+            <angle>
+                106.7
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                3.660
+            </distance>
+
+            <energy>
+                0.069
+            </energy>
+
+            <scale>
+                13.407
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            2.544
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            N_R 
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                0.699
+            </bond>
+
+            <angle>
+                120.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                3.660
+            </distance>
+
+            <energy>
+                0.069
+            </energy>
+
+            <scale>
+                13.407
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            2.544
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            N_2 
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                0.685
+            </bond>
+
+            <angle>
+                111.2
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                3.660
+            </distance>
+
+            <energy>
+                0.069
+            </energy>
+
+            <scale>
+                13.407
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            2.544
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            N_1 
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                0.656
+            </bond>
+
+            <angle>
+                180.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                3.660
+            </distance>
+
+            <energy>
+                0.069
+            </energy>
+
+            <scale>
+                13.407
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            2.544
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            0_3
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                0.658
+            </bond>
+
+            <angle>
+                104.51
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                3.500
+            </distance>
+
+            <energy>
+                0.060
+            </energy>
+
+            <scale>
+                14.085
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            2.300
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            O_3_z 
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                0.528
+            </bond>
+
+            <angle>
+                146.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                3.500
+            </distance>
+
+            <energy>
+                0.060
+            </energy>
+
+            <scale>
+                14.085
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            2.300
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            O_R 
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                0.680
+            </bond>
+
+            <angle>
+                110.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                3.500
+            </distance>
+
+            <energy>
+                0.060
+            </energy>
+
+            <scale>
+                14.085
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            2.300
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            0_2
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                0.634
+            </bond>
+
+            <angle>
+                120.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                3.500
+            </distance>
+
+            <energy>
+                0.060
+            </energy>
+
+            <scale>
+                14.085
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            2.300
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            0_1
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                0.639
+            </bond>
+
+            <angle>
+                180.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                3.500
+            </distance>
+
+            <energy>
+                0.060
+            </energy>
+
+            <scale>
+                14.085
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            2.300
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            F_ 
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                0.668
+            </bond>
+
+            <angle>
+                180.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                3.364
+            </distance>
+
+            <energy>
+                0.050
+            </energy>
+
+            <scale>
+                14.762
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            1.735
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Ne4 +4
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                0.920
+            </bond>
+
+            <angle>
+                90.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                3.243
+            </distance>
+
+            <energy>
+                0.042
+            </energy>
+
+            <scale>
+                15.440
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            0.194
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Na 
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.539
+            </bond>
+
+            <angle>
+                180.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                2.983
+            </distance>
+
+            <energy>
+                0.030
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            1.081
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Mg3 +2
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.421
+            </bond>
+
+            <angle>
+                109.47
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                3.021
+            </distance>
+
+            <energy>
+                0.111
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            1.787
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            A13 
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.244
+            </bond>
+
+            <angle>
+                109.47
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                4.499
+            </distance>
+
+            <energy>
+                0.505
+            </energy>
+
+            <scale>
+                11.278
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            1.792
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Si3 
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.117
+            </bond>
+
+            <angle>
+                109.47
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                4.295
+            </distance>
+
+            <energy>
+                0.402
+            </energy>
+
+            <scale>
+                12.175
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            2.323
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            P_3 +3
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.101
+            </bond>
+
+            <angle>
+                93.8
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                4.147
+            </distance>
+
+            <energy>
+                0.305
+            </energy>
+
+            <scale>
+                13.072
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            2.863
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            P_3 +5
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.056
+            </bond>
+
+            <angle>
+                109.47
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                4.147
+            </distance>
+
+            <energy>
+                0.305
+            </energy>
+
+            <scale>
+                13.072
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            2.863
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            P_3 +q 
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.056
+            </bond>
+
+            <angle>
+                109.47
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                4.147
+            </distance>
+
+            <energy>
+                0.305
+            </energy>
+
+            <scale>
+                13.072
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            2.863
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            S_3 +2
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.064
+            </bond>
+
+            <angle>
+                92.1
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                4.035
+            </distance>
+
+            <energy>
+                0.274
+            </energy>
+
+            <scale>
+                13.969
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            2.703
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            S_3 +4
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.049
+            </bond>
+
+            <angle>
+                103.20
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                4.035
+            </distance>
+
+            <energy>
+                0.274
+            </energy>
+
+            <scale>
+                13.969
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            2.703
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            S_3 +6
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.027
+            </bond>
+
+            <angle>
+                109.47
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                4.035
+            </distance>
+
+            <energy>
+                0.274
+            </energy>
+
+            <scale>
+                13.969
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            2.703
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            S_R 
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.077
+            </bond>
+
+            <angle>
+                92.2
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                4.035
+            </distance>
+
+            <energy>
+                0.274
+            </energy>
+
+            <scale>
+                13.969
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            2.703
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            S_2 
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                0.854
+            </bond>
+
+            <angle>
+                120.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                4.035
+            </distance>
+
+            <energy>
+                0.274
+            </energy>
+
+            <scale>
+                13.969
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            2.703
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Cl 
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.044
+            </bond>
+
+            <angle>
+                180.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                3.947
+            </distance>
+
+            <energy>
+                0.227
+            </energy>
+
+            <scale>
+                14.866
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            2.348
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Ar4 +4
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.032
+            </bond>
+
+            <angle>
+                90.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                3.868
+            </distance>
+
+            <energy>
+                0.185
+            </energy>
+
+            <scale>
+                15.763
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            0.300
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            K 
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.953
+            </bond>
+
+            <angle>
+                180.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                3.812
+            </distance>
+
+            <energy>
+                0.035
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            1.165
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Ca6 +2
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.761
+            </bond>
+
+            <angle>
+                90.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                3.399
+            </distance>
+
+            <energy>
+                0.238
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            2.141
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Sc3 +3
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.513
+            </bond>
+
+            <angle>
+                109.47
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                3.295
+            </distance>
+
+            <energy>
+                0.019
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            2.592
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Ti3 +4
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.412
+            </bond>
+
+            <angle>
+                109.47
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                3.175
+            </distance>
+
+            <energy>
+                0.017
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            2.659
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Ti6 +4
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.412
+            </bond>
+
+            <angle>
+                90.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                3.175
+            </distance>
+
+            <energy>
+                0.017
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            2.659
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            V_3 +5
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.402
+            </bond>
+
+            <angle>
+                109.47
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                3.144
+            </distance>
+
+            <energy>
+                0.016
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            2.679
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Cr6 +3
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.345
+            </bond>
+
+            <angle>
+                90.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                3.023
+            </distance>
+
+            <energy>
+                0.015
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            2.463
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Mn6 +2
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.382
+            </bond>
+
+            <angle>
+                90.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                2.961
+            </distance>
+
+            <energy>
+                0.013
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            2.43
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Fe3 +2
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.270
+            </bond>
+
+            <angle>
+                109.47
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                2.912
+            </distance>
+
+            <energy>
+                0.013
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            2.43
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Fe6 +2
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.335
+            </bond>
+
+            <angle>
+                90.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                2.912
+            </distance>
+
+            <energy>
+                0.013
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            2.43
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            C06 +3
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.241
+            </bond>
+
+            <angle>
+                90.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                2.872
+            </distance>
+
+            <energy>
+                0.014
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            2.43
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Ni4 +2
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.164
+            </bond>
+
+            <angle>
+                90.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                2.834
+            </distance>
+
+            <energy>
+                0.015
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            2.43
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Cu3 +1
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.302
+            </bond>
+
+            <angle>
+                109.47
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                3.495
+            </distance>
+
+            <energy>
+                0.005
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            1.756
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Zn3 +2
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.193
+            </bond>
+
+            <angle>
+                109.47
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                2.763
+            </distance>
+
+            <energy>
+                0.124
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            1.308
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Ga3 +3
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.260
+            </bond>
+
+            <angle>
+                109.47
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                4.383
+            </distance>
+
+            <energy>
+                0.415
+            </energy>
+
+            <scale>
+                11.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            1.821
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Ge3 
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.197
+            </bond>
+
+            <angle>
+                109.47
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                4.280
+            </distance>
+
+            <energy>
+                0.379
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            2.789
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            As3 +3
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.211
+            </bond>
+
+            <angle>
+                92.1
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                4.230
+            </distance>
+
+            <energy>
+                0.309
+            </energy>
+
+            <scale>
+                13.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            2.864
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Se3 +2
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.190
+            </bond>
+
+            <angle>
+                90.6
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                4.205
+            </distance>
+
+            <energy>
+                0.291
+            </energy>
+
+            <scale>
+                14.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            2.764
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Br 
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.192
+            </bond>
+
+            <angle>
+                180.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                4.189
+            </distance>
+
+            <energy>
+                0.251
+            </energy>
+
+            <scale>
+                15.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            2.519
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Kr4 +4
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.147
+            </bond>
+
+            <angle>
+                90.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                4.141
+            </distance>
+
+            <energy>
+                0.220
+            </energy>
+
+            <scale>
+                16.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            0.452
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Rb 
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                2.260
+            </bond>
+
+            <angle>
+                180.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                4.114
+            </distance>
+
+            <energy>
+                0.04
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            1.592
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Sr6 +2
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                2.052
+            </bond>
+
+            <angle>
+                90.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                3.641
+            </distance>
+
+            <energy>
+                0.235
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            2.449
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Y_3 +3
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.698
+            </bond>
+
+            <angle>
+                109.47
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                3.345
+            </distance>
+
+            <energy>
+                0.072
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            3.257
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Zr3 +4
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.564
+            </bond>
+
+            <angle>
+                109.47
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                3.124
+            </distance>
+
+            <energy>
+                0.069
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            3.667
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Nb3 +5
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.473
+            </bond>
+
+            <angle>
+                109.47
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                3.165
+            </distance>
+
+            <energy>
+                0.059
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            3.618
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            M06 +6
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.467
+            </bond>
+
+            <angle>
+                90.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                3.052
+            </distance>
+
+            <energy>
+                0.056
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            3.40
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Mo3 +6
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.484
+            </bond>
+
+            <angle>
+                109.47
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                3.052
+            </distance>
+
+            <energy>
+                0.056
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            3.40
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Tc6 +5
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.322
+            </bond>
+
+            <angle>
+                90.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                2.998
+            </distance>
+
+            <energy>
+                0.048
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            3.40
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Ru6 +2
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.478
+            </bond>
+
+            <angle>
+                90.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                2.963
+            </distance>
+
+            <energy>
+                0.056
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            3.40
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Rh6 +3
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.332
+            </bond>
+
+            <angle>
+                90.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                2.929
+            </distance>
+
+            <energy>
+                0.053
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            3.508
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Pd4 +2
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.338
+            </bond>
+
+            <angle>
+                90.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                2.899
+            </distance>
+
+            <energy>
+                0.048
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            3.21
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Ag1 +1
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.386
+            </bond>
+
+            <angle>
+                180.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                3.148
+            </distance>
+
+            <energy>
+                0.036
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            1.956
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Cd3 +2
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.403
+            </bond>
+
+            <angle>
+                109.47
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                2.848
+            </distance>
+
+            <energy>
+                0.228
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            1.65
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            In3 +3
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.459
+            </bond>
+
+            <angle>
+                109.47
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                4.463
+            </distance>
+
+            <energy>
+                0.599
+            </energy>
+
+            <scale>
+                11.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            2.07
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Sn3 
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.398
+            </bond>
+
+            <angle>
+                109.47
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                4.392
+            </distance>
+
+            <energy>
+                0.567
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            2.961
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Sb3 +3
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.407
+            </bond>
+
+            <angle>
+                91.6
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                4.420
+            </distance>
+
+            <energy>
+                0.449
+            </energy>
+
+            <scale>
+                13.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            2.704
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Te3 +2
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.386
+            </bond>
+
+            <angle>
+                90.25
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                4.470
+            </distance>
+
+            <energy>
+                0.398
+            </energy>
+
+            <scale>
+                14.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            2.882
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            I. 
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.382
+            </bond>
+
+            <angle>
+                180.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                4.50
+            </distance>
+
+            <energy>
+                0.339
+            </energy>
+
+            <scale>
+                15.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            2.65
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Xe4 +4
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.267
+            </bond>
+
+            <angle>
+                90.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                4.404
+            </distance>
+
+            <energy>
+                0.332
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            0.556
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Cs 
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                2.570
+            </bond>
+
+            <angle>
+                180.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                4.517
+            </distance>
+
+            <energy>
+                0.045
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            1.573
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Ba6 +2
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                2.277
+            </bond>
+
+            <angle>
+                90.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                3.703
+            </distance>
+
+            <energy>
+                0.364
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            2.727
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            La3 +3
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.943
+            </bond>
+
+            <angle>
+                109.47
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                3.522
+            </distance>
+
+            <energy>
+                0.017
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            3.30
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Ce6 +3
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.841
+            </bond>
+
+            <angle>
+                90.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                3.556
+            </distance>
+
+            <energy>
+                0.013
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            3.30
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Pr6 +3
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.823
+            </bond>
+
+            <angle>
+                90.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                3.606
+            </distance>
+
+            <energy>
+                0.010
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            3.30
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Nd6 +3
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.816
+            </bond>
+
+            <angle>
+                90.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                3.575
+            </distance>
+
+            <energy>
+                0.010
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            3.30
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Pm6 +3
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.801
+            </bond>
+
+            <angle>
+                90.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                3.547
+            </distance>
+
+            <energy>
+                0.009
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            3.30
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Sm6 +3
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.780
+            </bond>
+
+            <angle>
+                90.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                3.520
+            </distance>
+
+            <energy>
+                0.008
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            3.30
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Eu6 +3
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.771
+            </bond>
+
+            <angle>
+                90.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                3.493
+            </distance>
+
+            <energy>
+                0.008
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            3.30
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Gd6 +3
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.735
+            </bond>
+
+            <angle>
+                90.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                3.368
+            </distance>
+
+            <energy>
+                0.009
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            3.30
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Tb6 +3
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.732
+            </bond>
+
+            <angle>
+                90.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                3.451
+            </distance>
+
+            <energy>
+                0.007
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            3.30
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Dy6 +3
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.710
+            </bond>
+
+            <angle>
+                90.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                3.428
+            </distance>
+
+            <energy>
+                0.007
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            3.30
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            H06 +3
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.696
+            </bond>
+
+            <angle>
+                90.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                3.409
+            </distance>
+
+            <energy>
+                0.007
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            3.416
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Er6 +3
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.673
+            </bond>
+
+            <angle>
+                90.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                3.391
+            </distance>
+
+            <energy>
+                0.007
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            3.30
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Tm6 +3
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.660
+            </bond>
+
+            <angle>
+                90.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                3.374
+            </distance>
+
+            <energy>
+                0.006
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            3.30
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Yb6 +3
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.637
+            </bond>
+
+            <angle>
+                90.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                3.355
+            </distance>
+
+            <energy>
+                0.228
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            2.618
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Lu6 +3
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.671
+            </bond>
+
+            <angle>
+                90.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                3.640
+            </distance>
+
+            <energy>
+                0.041
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            3.271
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Hf3 +4
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.611
+            </bond>
+
+            <angle>
+                109.47
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                3.141
+            </distance>
+
+            <energy>
+                0.072
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            3.921
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Ta3 +5
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.511
+            </bond>
+
+            <angle>
+                109.47
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                3.170
+            </distance>
+
+            <energy>
+                0.081
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            4.075
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            W_6 +6
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.392
+            </bond>
+
+            <angle>
+                90.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                3.069
+            </distance>
+
+            <energy>
+                0.067
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            3.70
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            W_3 +4
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.526
+            </bond>
+
+            <angle>
+                109.47
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                3.069
+            </distance>
+
+            <energy>
+                0.067
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            3.70
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            W_3 +6
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.380
+            </bond>
+
+            <angle>
+                109.47
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                3.069
+            </distance>
+
+            <energy>
+                0.067
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            3.70
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Re6 +5
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.372
+            </bond>
+
+            <angle>
+                90.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                2.954
+            </distance>
+
+            <energy>
+                0.066
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            3.70
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Re3 +7
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.314
+            </bond>
+
+            <angle>
+                109.47
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                2.954
+            </distance>
+
+            <energy>
+                0.066
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            3.70
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Os6 +6
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.372
+            </bond>
+
+            <angle>
+                90.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                3.120
+            </distance>
+
+            <energy>
+                0.037
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            3.70
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Ir6 +3
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.371
+            </bond>
+
+            <angle>
+                90.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                2.840
+            </distance>
+
+            <energy>
+                0.073
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            3.731
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Pt4 +2
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.364
+            </bond>
+
+            <angle>
+                90.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                2.754
+            </distance>
+
+            <energy>
+                0.080
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            3.382
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Au4 +3
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.262
+            </bond>
+
+            <angle>
+                90.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                3.293
+            </distance>
+
+            <energy>
+                0.039
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            2.625
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Hg1 +2
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.340
+            </bond>
+
+            <angle>
+                180.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                2.705
+            </distance>
+
+            <energy>
+                0.385
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            1.75
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            T13 +3
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.518
+            </bond>
+
+            <angle>
+                120.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                4.347
+            </distance>
+
+            <energy>
+                0.680
+            </energy>
+
+            <scale>
+                11.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            2.068
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Pb3 
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.459
+            </bond>
+
+            <angle>
+                109.47
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                4.297
+            </distance>
+
+            <energy>
+                0.663
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            2.846
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Bi3 +3
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.512
+            </bond>
+
+            <angle>
+                90.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                4.370
+            </distance>
+
+            <energy>
+                0.518
+            </energy>
+
+            <scale>
+                13.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            2.470
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            P03 +2
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.50
+            </bond>
+
+            <angle>
+                90.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                4.709
+            </distance>
+
+            <energy>
+                0.325
+            </energy>
+
+            <scale>
+                14.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            2.33
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            At 
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.545
+            </bond>
+
+            <angle>
+                180.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                4.750
+            </distance>
+
+            <energy>
+                0.284
+            </energy>
+
+            <scale>
+                15.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            2.24
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Rn4 +4
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.420
+            </bond>
+
+            <angle>
+                90.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                4.765
+            </distance>
+
+            <energy>
+                0.248
+            </energy>
+
+            <scale>
+                16.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            0.583
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Fr 
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                2.880
+            </bond>
+
+            <angle>
+                180.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                4.90
+            </distance>
+
+            <energy>
+                0.050
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            1.847
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Ra6 +2
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                2.512
+            </bond>
+
+            <angle>
+                90.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                3.677
+            </distance>
+
+            <energy>
+                0.404
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            2.92
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Ac6 +3
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.983
+            </bond>
+
+            <angle>
+                90.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                3.478
+            </distance>
+
+            <energy>
+                0.033
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            3.90
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Th6 +4
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.721
+            </bond>
+
+            <angle>
+                90.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                3.396
+            </distance>
+
+            <energy>
+                0.026
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            4.202
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Pa6 +4
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.711
+            </bond>
+
+            <angle>
+                90.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                3.424
+            </distance>
+
+            <energy>
+                0.022
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            3.90
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            U_6 +4
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.684
+            </bond>
+
+            <angle>
+                90.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                3.395
+            </distance>
+
+            <energy>
+                0.022
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            3.90
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Np6 +4
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.666
+            </bond>
+
+            <angle>
+                90.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                3.424
+            </distance>
+
+            <energy>
+                0.019
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            3.90
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Pu6 +4
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.657
+            </bond>
+
+            <angle>
+                90.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                3.424
+            </distance>
+
+            <energy>
+                0.016
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            3.90
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Am6 +4
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.660
+            </bond>
+
+            <angle>
+                90.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                3.381
+            </distance>
+
+            <energy>
+                0.014
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            3.90
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Cm6 +3
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.801
+            </bond>
+
+            <angle>
+                90.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                3.326
+            </distance>
+
+            <energy>
+                0.013
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            3.90
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Bk6 +3
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.761
+            </bond>
+
+            <angle>
+                90.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                3.339
+            </distance>
+
+            <energy>
+                0.013
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            3.90
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Cf6 +3
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.750
+            </bond>
+
+            <angle>
+                90.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                3.313
+            </distance>
+
+            <energy>
+                0.013
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            3.90
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Es6 +3
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.724
+            </bond>
+
+            <angle>
+                90.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                3.299
+            </distance>
+
+            <energy>
+                0.012
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            3.90
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Fm6 +3
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.712
+            </bond>
+
+            <angle>
+                90.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                3.286
+            </distance>
+
+            <energy>
+                0.012
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            3.90
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Md6 +3
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.689
+            </bond>
+
+            <angle>
+                90.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                3.274
+            </distance>
+
+            <energy>
+                0.011
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            3.90
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            N06 +3
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.679
+            </bond>
+
+            <angle>
+                90.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                3.248
+            </distance>
+
+            <energy>
+                0.011
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            3.90
+    </effective_charge>
+
+    
+
+
+
+        <atom_type>
+            Lw6 +3
+        </atom_type>
+
+        <valence>
+            
+            <bond>
+                1.698
+            </bond>
+
+            <angle>
+                90.0
+            </angle>
+
+        </valence>
+
+        <nonbond>
+            
+            <distance>
+                3.236
+            </distance>
+
+            <energy>
+                0.011
+            </energy>
+
+            <scale>
+                12.0
+            </scale>
+        </nonbond>
+
+    <effective_charge>
+            3.90
+    </effective_charge>
+
+    
+</atoms>
